@@ -1,0 +1,1 @@
+This is a project to accelerate VNC framebuffer update over high latency network.
